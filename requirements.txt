@@ -1,0 +1,7 @@
+sqlite3
+pandas
+unicodedata
+regex
+zipfile
+chardet
+shutil
