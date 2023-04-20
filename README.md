@@ -19,7 +19,14 @@ O objetivo do desafio é avaliar a capacidade técnica, crítica e raciocínio l
 - Bibliotecas utilizadas no Notebook
 - SO Unix
 
+## Executar no Google Colab (Modo indicado)
+
+Você pode executar o Jupyter Notebook diretamente no Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucasRangelSSouza/data_eng_skills/blob/main/Skills_Data_Eng.ipynb)
+
 ## Instalação e Execução
+Você tambem pode subir o projeto no seu ambiente local:
 
 1. Clone o repositório:
 
@@ -39,11 +46,6 @@ O objetivo do desafio é avaliar a capacidade técnica, crítica e raciocínio l
 
 5. Abra o arquivo `Skills_Data_Eng.ipynb` no navegador e execute as células para ver a solução do desafio.
 
-## Executar no Google Colab (Modo indicado)
-
-Você também pode executar o Jupyter Notebook diretamente no Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucasRangelSSouza/data_eng_skills/blob/main/Skills_Data_Eng.ipynb)
 
 ## Autor
 
